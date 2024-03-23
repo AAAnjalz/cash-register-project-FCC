@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: gray;
+}
+#cash {
+  border: 0;
+  outline: 0;
+  background-color: black;
+  border-radius: 10px;
+  padding: 10px;
+  position: absolute;
+  left: 750px;
+  top: 100px;
+  color: white;
+}
+#purchase-btn {
+  border: 0;
+  outline: 0;
+  position: absolute;
+  left: 800px;
+  top: 400px;
+  background-color: lightslategray;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 5px 8px 5px;
+  cursor: pointer;
+}
+
+#price-screen {
+  color: white;
+  border: 0;
+  outline: 0;
+  position: absolute;
+  left: 789px;
+  top: 150px;
+  background-color: black;
+  padding: 10px;
+  border-radius: 10px;
+}
+#cash-drawer-display {
+  position: absolute;
+  left: 780px;
+  top: 470px;
+
+  border-radius: 10px;
+  padding: 5px;
+}
+#change-due {
+  position: absolute;
+  left: 780px;
+  top: 250px;
+
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
